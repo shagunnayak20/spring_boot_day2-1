@@ -5,6 +5,9 @@ public class StudentModel {
     private String name;
     private String email;
 
+    public StudentModel(){
+
+    }
     public int getRoll_no() {
         return roll_no;
     }
